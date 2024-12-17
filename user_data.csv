@@ -1,0 +1,19 @@
+email,ticker,Average Price,Percentage Change,Highest Price,Lowest Price
+leong@,tsla,"Ticker
+TSLA    217.48
+dtype: float64","Ticker
+TSLA    129.86
+dtype: float64","Ticker
+TSLA    293.34
+dtype: float64","Ticker
+TSLA    108.1
+dtype: float64"
+leong@,1155.kl,"Ticker
+1155.KL    8.82
+dtype: float64","Ticker
+1155.KL    2.07
+dtype: float64","Ticker
+1155.KL    9.18
+dtype: float64","Ticker
+1155.KL    8.26
+dtype: float64"
